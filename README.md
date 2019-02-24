@@ -1,0 +1,1 @@
+This project implements the 9DOF Madgwick Filter on data read from the accelerometer, gyroscope, and magnetometer.
